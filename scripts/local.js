@@ -4,7 +4,7 @@
 const translations = {
     // English translations
     "en": {
-      "profile-bio": 'Software engineer, CEO and Founder at <a href="https://www.bproodev.com/" target="_blank">Bproo Dev</a>, <a href="https://www.youtube.com/c/BprooDev1" target="_blank">YouTuber</a> with 5k+ subs, full-stack developer, instructor and freelancer.',
+      "profile-bio": 'Software engineer, CEO and Founder at <a href="https://www.bproodev.com/" target="_blank">Bproo Dev</a>, <a href="https://www.youtube.com/c/BprooDev1" target="_blank">YouTuber</a> with 10k+ subs, full-stack developer, instructor and freelancer.',
       "skills-qualification": "Skills & Qualifications",
       "sq-1": '✔️ 8 Years experience with frontend & backend development',
       "sq-2": '✔️ Good knowledge in API & Database Design.',
@@ -69,7 +69,7 @@ const translations = {
   
     // Arabic translations
     "fr": {
-      "profile-bio": 'Ingénieur logiciel, PDG et fondateur chez <a href="https://www.bproodev.com/" target="_blank">Bproo Dev</a>, <a href="https://www.youtube.com /c/BprooDev1" target="_blank">YouTuber</a> avec plus de 5 000 abonnés, développeur full-stack, instructeur et freelanceur.',
+      "profile-bio": 'Ingénieur logiciel, PDG et fondateur chez <a href="https://www.bproodev.com/" target="_blank">Bproo Dev</a>, <a href="https://www.youtube.com /c/BprooDev1" target="_blank">YouTuber</a> avec plus de 10 000 abonnés, développeur full-stack, instructeur et freelanceur.',
       "skills-qualification": "Compétences & Qualifications",
       "sq-1": "✔️ 8 ans d'expérience dans le développement frontend & backend.",
       "sq-2": "✔️ Bonnes connaissances en conception d'API et de bases de données.",
