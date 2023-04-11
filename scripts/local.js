@@ -25,10 +25,10 @@ const translations = {
       <p>11/2018 - Present</p>
       <p>Produced content showcasing new tech, tutorials & interviews with top developers.</p>
       <ul>
-          <li>5000+ Youtube Subscribers</li>
-          <li>100+ course copies sold</li>
+          <li>10 000+ Youtube Subscribers</li>
+          <li>280+ course copies sold</li>
           <li>1+ Million views on Youtube</li>
-          <li>Tutorial videos included projects such as Ecommerce, Clones, Full Series On HTML&CSS, ReactJS, PHP, VueJS, Tailwindcss, and more </li>
+          <li>Tutorials, tips, talks, motivation, inspiration videos including videos on realizing projects such as e-commerce, site clones, Full Series On: HTML&CSS, ReactJS, PHP, NodeJS, VueJS, Tailwindcss, and Bootstrap, Laravel, Laravel API, MySQL, etc </li>
       </ul>`,
       "exp-3": `<strong>🐤 Full-Stack Developer | Floraison Sarl</strong>
       <p>10/2016 - 10/2017</p>
@@ -48,11 +48,20 @@ const translations = {
           <li>Added many more libraries to the systemn.</li>
           <li>Read more about the work done <a target="_blank" href="https://gsoc-2016-mifosx-by-kamdjouduplex.github.io/">...</a></li>
       </ul>`,
-      "project-1":"<span>🏆 </span>Build, deploy and maintain full e-learning platform to train my students",
-       "project-2":"<span>🏆 </span>Build, deploy and maintain a complete open blogging platform",
-       "project-3":"<span>🏆 </span>Build, deploy and maintain a full e-commerce web site",
-       "project-4":"<span>🏆 </span>Build, deploy and maintain a research publication project for one of my client",
-       "project-5":"<span>🏆 </span>Mini progressive web app as so many others just for learning purpose",
+      "exp-5": `<strong>🐤 Full-Stack Developer | Yatric-Space</strong>
+      <p>6/2017 - 7/2018</p>
+      <p>Work remotely as a full-stack developer on a resources management system project.</p>
+      <ul>
+          <li>Designed and analysis</li>
+          <li>Work on verious part of the project, create and maintain feature of the project.</li>
+          <li>Testing and Deployment on VPS</li>
+          <li>Fix bugs and keep the systeme up...</li>
+      </ul>`,
+      "project-1":"<span>🏆 </span>Build, deploy and maintain full e-learning platform to train my students (With Laravel & Reactjs)",
+       "project-2":"<span>🏆 </span>Build, deploy and maintain a complete open blogging platform (Laravel & JQuery)",
+       "project-3":"<span>🏆 </span>Build, deploy and maintain a full e-commerce web site from an existing open source projet (Laravel & VueJS)",
+       "project-4":"<span>🏆 </span>Build, deploy and maintain a research publication project for one of my client (October CMS)",
+       "project-5":"<span>🏆 </span>Mini progressive web app as so many others just for learning purpose (PWA stack)",
        "project-6":"<span>🏆 </span>And many other project that I cannot disclose here for confidentiality reason",
   
        "setting": "⚙ Settings: -",
@@ -81,8 +90,8 @@ const translations = {
        <p>11/2018 - Présent</p>
        <p>Création des contenus sur les nouvelles technologies, des tutoriels et des interviews avec les meilleurs développeurs.</p>
        <ul>
-           <li>Plus de 5 000 abonnés YouTube</li>
-           <li>Plus de 100 copies de cours vendues</li>
+           <li>Plus de 10 000 abonnés YouTube</li>
+           <li>Plus de 280 copies de cours vendues</li>
            <li>Plus d'un million de vues sur Youtube</li>
            <li>Les tutoriels vidéos inclu des projets tels que des site de e-commerce, les clones, la série complète sur HTML et CSS, ReactJS, PHP, VueJS, Tailwindcss, etc. </li>
        </ul>`,
