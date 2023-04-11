@@ -59,7 +59,7 @@ const translations = {
       </ul>`,
       "project-1":"<span>🏆 </span>Build, deploy and maintain full e-learning platform to train my students (With Laravel & Reactjs)",
        "project-2":"<span>🏆 </span>Build, deploy and maintain a complete open blogging platform (Laravel & JQuery)",
-       "project-3":"<span>🏆 </span>Build, deploy and maintain a full e-commerce web site from an existing open source projet (Laravel & VueJS)",
+       "project-3":"<span>🏆 </span>Build, deploy and maintain an e-commerce site from an existing OP project (Laravel & VueJS)",
        "project-4":"<span>🏆 </span>Build, deploy and maintain a research publication project for one of my client (October CMS)",
        "project-5":"<span>🏆 </span>Mini progressive web app as so many others just for learning purpose (PWA stack)",
        "project-6":"<span>🏆 </span>And many other project that I cannot disclose here for confidentiality reason",
